@@ -15,4 +15,8 @@ preprocessing, and exploratory data analysis (EDA).
 - NumPy
 - Scikit-learn
 
-This project is part of my learning journey in Artificial Intelligence and Data Science.
+## Acknowledgment
+
+This notebook was shared during a Data Detox workshop/session
+and is used for educational purposes.
+
