@@ -17,6 +17,5 @@ preprocessing, and exploratory data analysis (EDA).
 
 ## Acknowledgment
 
-This notebook was shared during a Data Detox workshop/session
-and is used for educational purposes.
-
+The content of this notebook was provided during the “Data Detox: Clean and Prepare Your Data with Python” workshop conducted by Abhay R (Beta MLSA) in September 2024.
+This repository serves as a personal learning reference and does not claim original authorship of the workshop material.
